@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AccountingAssignment.cs\AccountingAssignment.cs\bin\Debug\AccountingAssignment.cs.exe.config
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AccountingAssignment.cs\AccountingAssignment.cs\bin\Debug\AccountingAssignment.cs.exe
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AccountingAssignment.cs\AccountingAssignment.cs\bin\Debug\AccountingAssignment.cs.pdb
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AccountingAssignment.cs\AccountingAssignment.cs\obj\Debug\AccountingAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AccountingAssignment.cs\AccountingAssignment.cs\obj\Debug\AccountingAssignment.cs.exe
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AccountingAssignment.cs\AccountingAssignment.cs\obj\Debug\AccountingAssignment.cs.pdb

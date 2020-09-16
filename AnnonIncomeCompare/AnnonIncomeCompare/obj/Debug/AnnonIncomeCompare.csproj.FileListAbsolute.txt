@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AnnonIncomeCompare\AnnonIncomeCompare\obj\Debug\AnnonIncomeCompare.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AnnonIncomeCompare\AnnonIncomeCompare\obj\Debug\AnnonIncomeCompare.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AnnonIncomeCompare\AnnonIncomeCompare\bin\Debug\AnnonIncomeCompare.exe.config
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AnnonIncomeCompare\AnnonIncomeCompare\bin\Debug\AnnonIncomeCompare.exe
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AnnonIncomeCompare\AnnonIncomeCompare\bin\Debug\AnnonIncomeCompare.pdb
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AnnonIncomeCompare\AnnonIncomeCompare\obj\Debug\AnnonIncomeCompare.exe
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\AnnonIncomeCompare\AnnonIncomeCompare\obj\Debug\AnnonIncomeCompare.pdb

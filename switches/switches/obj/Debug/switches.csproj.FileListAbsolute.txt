@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\Switches\switches\switches\bin\Debug\switches.exe.config
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\Switches\switches\switches\bin\Debug\switches.exe
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\Switches\switches\switches\bin\Debug\switches.pdb
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\Switches\switches\switches\obj\Debug\switches.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\Switches\switches\switches\obj\Debug\switches.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\Switches\switches\switches\obj\Debug\switches.exe
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\Switches\switches\switches\obj\Debug\switches.pdb

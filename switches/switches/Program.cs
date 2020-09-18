@@ -48,6 +48,19 @@ namespace switches
             while (!number);
 
             Console.ReadLine();
+
+            Console.WriteLine("Choose a number to count to.");
+            int entered = Convert.ToInt32(Console.ReadLine());
+            int i = 0;
+            
+            while (i < entered)
+            {
+                Console.WriteLine(i);
+                i++;
+            }
+            Console.WriteLine(entered);
+            Console.ReadLine();
+
         }
     }
 }

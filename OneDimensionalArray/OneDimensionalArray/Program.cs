@@ -73,7 +73,7 @@ class Program
                 Console.WriteLine(strList[choseItem]);
             }
         }
-        catch (IndexOutOfRangeException)
+        catch
         {
             Console.WriteLine("You have selected an index that doesn't exist.");
         }

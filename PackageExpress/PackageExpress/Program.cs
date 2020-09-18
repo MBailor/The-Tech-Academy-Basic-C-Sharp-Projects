@@ -39,7 +39,19 @@ namespace PackageExpress
             decimal lengthEnt = Convert.ToDecimal(entLength);
             Console.ReadLine();
 
-            if (widthEnt > 50 || heightEnt > 50 || lengthEnt > 50)
+            if (widthEnt > 50 && heightEnt > 50 && lengthEnt > 50)
+            {
+                Console.WriteLine("Sorry! Your Package Is Too Large To Be Shipped By Package Express. Have a good day!");
+                Console.ReadLine();
+                System.Environment.Exit(0);
+            }
+            else if (widthEnt > 50 || heightEnt > 50 || lengthEnt > 50)
+            {
+                Console.WriteLine("Sorry! Your Package Is Too Large To Be Shipped By Package Express. Have a good day!");
+                Console.ReadLine();
+                System.Environment.Exit(0);
+            }
+            else if (widthEnt + heightEnt + lengthEnt > 50)
             {
                 Console.WriteLine("Sorry! Your Package Is Too Large To Be Shipped By Package Express. Have a good day!");
                 Console.ReadLine();

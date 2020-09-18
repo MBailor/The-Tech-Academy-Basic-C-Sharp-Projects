@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\FirstTimeStringBuilder\FirstTimeStringBuilder\bin\Debug\FirstTimeStringBuilder.exe.config
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\FirstTimeStringBuilder\FirstTimeStringBuilder\bin\Debug\FirstTimeStringBuilder.exe
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\FirstTimeStringBuilder\FirstTimeStringBuilder\bin\Debug\FirstTimeStringBuilder.pdb
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\FirstTimeStringBuilder\FirstTimeStringBuilder\obj\Debug\FirstTimeStringBuilder.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\FirstTimeStringBuilder\FirstTimeStringBuilder\obj\Debug\FirstTimeStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\FirstTimeStringBuilder\FirstTimeStringBuilder\obj\Debug\FirstTimeStringBuilder.exe
+C:\Users\Student\Desktop\Basic_C#_Programs\C# Assignments\FirstTimeStringBuilder\FirstTimeStringBuilder\obj\Debug\FirstTimeStringBuilder.pdb
